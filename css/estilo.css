@@ -1,0 +1,135 @@
+body{
+    background-color: rgb(15, 184, 226);
+
+}
+h1{
+    color: black;
+    font-family: 'Righteous', cursive;
+    text-align: center;
+    font-size: 50px;
+    border-left: 5px solid blue;
+    border-right:  5px solid rgb(222, 10, 14) ;
+    border-top: 5px solid rgb(234, 234, 8);
+    padding-bottom:  10px; bottom: 5px rgba(207, 8, 114, 0.096);
+   
+
+
+}
+h2{
+    font-family: 'Play', sans-serif;
+    background-color: blue;
+    color: rgb(235, 68, 7);
+    text-align: center;
+    padding: 15px;
+    font-size:40px ;
+    box-shadow:30px 20px;
+    
+
+}
+.tabla{
+    width: 500px;
+    height: 36px;
+    background-color: blueviolet;
+    margin: auto;
+    box-shadow:10px 10px ;
+    box-decoration-break: none  ;
+    color: orangered;
+}
+table{
+    width: 80%;
+    margin: auto;
+}
+table,tr td{
+   text-align: center; 
+   padding: 3px;
+   color: blueviolet;
+  
+ 
+
+}
+a{
+    text-decoration: none;
+    color: rgb(232, 239, 12);
+    
+}
+.video{
+    width: 80%;
+    height: 240px;
+    margin: auto;
+    background-color: rgb(87, 86, 86);
+    border: 1px solid green;
+    margin-top: 20px;
+
+}
+.v1{
+    width: 32.5%;
+    height: 240px;
+    float: left; 
+    border: 1px solid rgb(230, 11, 11);
+}
+* {
+    margin: 0;
+    padding: 0;
+    border-radius:;
+}
+.form-register{
+    width: 400px;
+    background-color: rgb(32, 8, 214);
+    padding: 40px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: yellow;
+    box-shadow: 7px 15px 38px  rgb(250, 148, 5);
+}
+.form-register h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.controls{
+    width: 100%;
+    background-color: darkred;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 17px;
+    border: 1px solid chartreuse;
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: 18px;
+}
+.form-register p {
+    height: 40px;
+    text-align: center;
+    font-size: 19px;
+    line-height: 40px;
+}
+.form-register a {
+    color: rgb(18, 243, 51);
+    text-decoration: none;
+
+}
+.form-register a:hover {
+    color: rgb(243, 250, 250);
+    text-decoration: underline;
+} 
+.form-register .botons {
+    width: 100%;
+    background-color: blueviolet;
+    border: none;
+    padding: 12px;
+    color: aliceblue;
+    margin: 16px 0;
+    font-size: 16px;
+} 
+.footer{
+    background-color: rgb(10, 10, 10);
+
+} 
+* {
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+
+} 
